@@ -135,3 +135,47 @@ body{
         font-size: large;
         left: 6cm;
     }
+    .linkit-error-text-1{
+        position: absolute;
+        font-family: 'Assistant', sans-serif;
+        font-size: xx-large;
+        left: 1cm;
+        top: 5cm;
+    }
+    .linkit-error-text-2{
+        position: absolute;
+        font-family: 'Assistant', sans-serif;
+        font-size: x-large;
+        left: 1cm;
+        top: 7cm;
+    }
+    .linkit-error-text-3{
+        position: absolute;
+        font-family: 'Assistant', sans-serif;
+        font-size: x-large;
+        left: 1cm;
+        top: 9cm;
+    }
+    .returntolinkit{
+        position: absolute;
+        font-family: 'Assistant', sans-serif;
+        font-size: x-large;
+        left: 11.5cm;
+        top: 9cm;
+    }
+    .linkit-brand-404{
+        position: absolute;
+        left: -2.5cm;
+        top: -1cm;
+    }
+    .linkit-brand-text-404{
+        position: absolute;
+        font-family: 'Assistant', sans-serif;
+        font-size: large;
+        left: 11.5cm;
+        top: 17cm;
+    }
+    .linkit-lost{
+        position: absolute;
+        left: 1cm;
+    }
