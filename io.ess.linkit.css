@@ -1,0 +1,66 @@
+/** Linkit Resource file, Do not Edit! **/
+/** Creator: Star08-web **/
+/** License: same as linkit **/
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;300&family=Poppins:wght@300&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+    color: gainsboro;
+}
+body{
+    background-color: rgba(49, 149, 226, 0.892);
+    
+}
+.form{
+    content: "";
+    position: absolute;
+    height: 450px;
+    width: 450px;
+    background-color: whitesmoke;
+    /*border: 1px solid #7a7a7a50;*/
+    border-radius: 10px;
+    left: 670px;
+    top: 130px;
+    padding: 10px;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    overflow: hidden;
+    z-index: 1;
+}
+.author{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    font-size: x-large;
+    font-family: 'Assistant', sans-serif;
+    color: black;
+}
+.author-link{
+    position: absolute;
+    top: 30%;
+    left: 49%;
+    font-size: x-large;
+    font-family: 'Assistant', sans-serif;
+    color: black;
+}
+.credit-warn{
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    font-size: large;
+    font-family: 'Assistant', sans-serif;
+    color: black;
+}
+.form2{
+    content: "";
+    position: absolute;
+    height: 450px;
+    width: 450px;
+    background-color: gray;
+    /*border: 1px solid #7a7a7a50;*/
+    border-radius: 10px;
+    left: 670px;
+    top: 130px;
+    padding: 10px;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    overflow: hidden;
+    z-index: 2;
+}
