@@ -83,3 +83,55 @@ body{
     position: absolute;
     border-radius: 50%;
 }
+    .License{
+        position: absolute;
+        top: 13cm;
+        left: 10cm;
+        background-color: #0653f9;
+        text-align: center;
+        box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+        width: 120px;
+        padding: 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: x-large; 
+        color: gainsboro;
+    }
+    .License:hover{
+        transition: 100ms;
+        background-color: #5f78f5;
+    }
+    .linkit-logo{
+        position: absolute;
+        top: 6cm;
+    }
+    .linkit{
+        position: absolute;
+        top: 8cm;
+        left: 6cm; 
+        font-size: xx-large;
+    }
+    .fork-github-button{
+        position: absolute;
+        top: 13cm;
+        left: 5cm;
+        background-color: #f93b06;
+        text-align: center;
+        box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+        width: 120px;
+        padding: 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: x-large; 
+        color: gainsboro;
+    }
+    .fork-github-button:hover{
+        transition: 100ms;
+        background-color: #f5a85f;
+    }
+    .linkit-desc{
+        position: absolute;
+        top: 10cm;
+        font-size: large;
+        left: 6cm;
+    }

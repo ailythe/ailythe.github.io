@@ -181,3 +181,8 @@ body{
     transition: 100ms;
     background-color: #fe9a29;
 }
+.linkit-brand{
+    position: absolute;
+    top: 26cm;
+    left: 0.5cm;
+}
