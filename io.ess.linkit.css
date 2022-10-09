@@ -43,24 +43,43 @@ body{
 }
 .credit-warn{
     position: absolute;
-    top: 40%;
+    top: 43%;
     left: 25%;
     font-size: large;
     font-family: 'Assistant', sans-serif;
     color: black;
 }
 .form2{
+    color: black;
+    text-align: center;
     content: "";
     position: absolute;
-    height: 450px;
-    width: 450px;
-    background-color: gray;
+    height: 130px;
+    width: 330px;
+    background-color: rgb(206, 206, 206);
     /*border: 1px solid #7a7a7a50;*/
     border-radius: 10px;
-    left: 670px;
-    top: 130px;
+    left: 730px;
+    top: 400px;
     padding: 10px;
     box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
     overflow: hidden;
     z-index: 2;
+}
+.list{
+    color: black;
+}
+.fontawesome{
+    color: black;
+}
+.icons8{
+    color: black;
+}
+.unsplash{
+    color: black;
+}
+.avatar-github{
+    left: 37%;
+    position: absolute;
+    border-radius: 50%;
 }
