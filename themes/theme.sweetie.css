@@ -20,12 +20,14 @@ body{
     position: absolute;
     border-radius:50%;
     top: 2cm;
+    left: 0.5cm;
 }
 .title{
     position: absolute;
     color: whitesmoke;
     font-size: xx-large;
     width: 123px;
+    left: 0.5cm;
     top: 6cm;
 }
 .discordactivity{
@@ -35,6 +37,7 @@ body{
     position: absolute;
     font-size: large;
     width: 123px;
+    left: 0.5cm;
     top: 8cm;
 }
 .YouTube{
@@ -200,5 +203,5 @@ body{
 .linkit-brand{
     position: absolute;
     top: 26cm;
-    left: 0.5cm;
+    left: 0.7cm;
 }
