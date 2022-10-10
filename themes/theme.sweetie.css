@@ -44,7 +44,7 @@ body{
     position: absolute;
     top: 10cm;
     left: 0cm;
-    background-color: #ff1010;
+    background-color: #ff1010ea;
     text-align: center;
     box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
     width: 120px;
@@ -58,7 +58,7 @@ body{
 }
 .YouTube:hover{
     transition: 100ms;
-    background-color: #ff3737;
+    background-color: #ff3737e1;
 }
 .Twitch{
     position: absolute;
