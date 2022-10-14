@@ -94,7 +94,7 @@ body{
         padding: 10px;
         border-radius: 5px;
         text-decoration: none;
-        font-size: x-large; 
+        font-size: large; 
         color: gainsboro;
     }
     .License:hover{
@@ -122,7 +122,7 @@ body{
         padding: 10px;
         border-radius: 5px;
         text-decoration: none;
-        font-size: x-large; 
+        font-size: large; 
         color: gainsboro;
     }
     .fork-github-button:hover{
