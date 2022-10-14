@@ -1,0 +1,208 @@
+/**  Theme: Sweetie (default) **/
+/**  Designed By: Star08-web **/
+/**  License: ISC           **/
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap');
+*{
+    font-family: 'Assistant', sans-serif;
+    text-decoration: none;
+    color:whitesmoke;
+}
+body{
+    background-image: url(/themes/sweetie.res/bg.jpg);
+    padding: 0%;
+    border: 0%;
+}
+.container{
+    position: absolute;
+    left: 40%;
+}
+.PFP{
+    position: absolute;
+    border-radius:50%;
+    top: 2cm;
+    left: 0.5cm;
+}
+.title{
+    position: absolute;
+    color: whitesmoke;
+    font-size: xx-large;
+    width: 123px;
+    left: 0.5cm;
+    top: 6cm;
+}
+.discordactivity{
+    display: none;
+}
+.description{
+    position: absolute;
+    font-size: large;
+    width: 123px;
+    left: 0.5cm;
+    top: 8cm;
+}
+.YouTube{
+    position: absolute;
+    top: 10cm;
+    left: 0cm;
+    background-color: #ff1010ea;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large;
+    color: gainsboro;
+}
+.YouTube:hover{
+    transition: 100ms;
+    background-color: #ff3737e1;
+}
+.Twitch{
+    position: absolute;
+    top: 12cm;
+    left: 0cm;
+    background-color: #6810ff;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Twitch:hover{
+    transition: 100ms;
+    background-color: #7d37ff;
+}
+.Twitter{
+    position: absolute;
+    top: 14cm;
+    left: 0cm;
+    background-color: #108fff;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Twitter:hover{
+    transition: 100ms;
+    background-color: #10a5ff;
+}
+.Instagram{
+    position: absolute;
+    top: 16cm;
+    left: 0cm;
+    background-image: linear-gradient(45deg,#405de6,#5b51d8,#833ab4,#c13584,#f77737,#fcaf45);
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Instagram:hover{
+    transition: 100ms;
+    background-image: linear-gradient(45deg,#546ce9,#7068e0,#8a4bb4,#be4e8e,#f59464,#eeb25e);
+}
+.Facebook{
+    position: absolute;
+    top: 18cm;
+    left: 0cm;
+    background-color: #1746ff;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Facebook:hover{
+    transition: 100ms;
+    background-color: #335fff;
+}
+.Discord{
+    position: absolute;
+    top: 20cm;
+    left: 0cm;
+    background-color: #6a00ff;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Discord:hover{
+    transition: 100ms;
+    background-color: #7846f8;
+}
+.Skype{
+    position: absolute;
+    top: 22cm;
+    left: 0cm;
+    background-color: #2d9aff;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Skype:hover{
+    transition: 100ms;
+    background-color: #5fa3f5;
+}
+.Mail{
+    display: none;
+    position: absolute;
+    top: 24cm;
+    left: 0cm;
+    background-color: #ea6900;
+    text-align: center;
+    box-shadow: 10px 5px 15px #00000015, 10px 8px 12px #00000015;
+    width: 120px;
+    padding: 10px;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: large; 
+    color: gainsboro;
+}
+.Mail:hover{
+    transition: 100ms;
+    background-color: #fe9a29;
+}
+.linkit-brand{
+    position: absolute;
+    top: 26cm;
+    left: 0.7cm;
+}
